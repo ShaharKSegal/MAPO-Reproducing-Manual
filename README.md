@@ -1,11 +1,11 @@
 This is a manual to reproduce the results of nsm with a clean WikiTableQuestions download, which was not preprocessed by the authors of nsm.
-For the preprocessed version follow the instructions on the project's page on GitHub.
+For the preprocessed version follow the instructions on the project's repository on GitHub.
 
 The manual also includes necessary adjustments for a custom dataset to run.
 
 ## Prerequisites:
 
-- Setup nsm as instructed in the [GitHub](https://github.com/crazydonkey200/neural-symbolic-machines) page (adjust to your machine, like paths and venv stuff).
+- Setup nsm as instructed in the [GitHub](https://github.com/crazydonkey200/neural-symbolic-machines) repository (adjust to your machine, like paths and venv stuff).
 - Download [WikiTableQuestions](https://nlp.stanford.edu/software/sempre/wikitable/)
 - Download pretrained [GloVe:](https://nlp.stanford.edu/projects/glove/)[Wikipedia 2014 + Gigaword 5](https://nlp.stanford.edu/projects/glove/)
 - **(Optional)**  download the wikitable processed for nsm as described on the git project page.
