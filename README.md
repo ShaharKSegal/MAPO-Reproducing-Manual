@@ -45,7 +45,7 @@ Other information can be found on the project's GitHub page.\
 Notes:
 1. n_actors is heavy, on local I recommand changing it to 3.
 2. train_use_gpu/eval_use_gpu should be changed to 0 if you don't have CUDA or gpu tensorflow.
-3. User train_gpu_id/eval_gpu_id for the id of the gpu to use (if you have multiple)
+3. Use train_gpu_id/eval_gpu_id for the id of the gpu to use (if you have multiple)
 4. Add debug flag to run if something went wrong.
 
 ## Adjusting a custom dataset:
