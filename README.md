@@ -1,5 +1,5 @@
-This is a manual to reproduce the results of nsm with a clean WikiTableQuestions download, which was not preprocessed by the authors of nsm.
-For the preprocessed version follow the instructions on the project's repository on GitHub.
+This is a manual to reproduce the results of nsm (mapo) with a clean WikiTableQuestions download, which was not preprocessed by the authors of nsm.
+For the preprocessed version follow the instructions on NSM's (MAPO) repository on GitHub.
 
 The manual also includes necessary adjustments for a custom dataset to run.
 
